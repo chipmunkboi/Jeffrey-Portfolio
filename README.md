@@ -1,2 +1,2 @@
 # personal-website
-currently a WIP
+Will be updated regularly but currently a work in progress.
