@@ -1,2 +1,2 @@
-# personal-website
-Will be updated regularly but currently a work in progress.
+# Personal Website
+Currently deployed [here](https:/zhangjeffrey.com/). Currently trying to implement a photography portfolio.
